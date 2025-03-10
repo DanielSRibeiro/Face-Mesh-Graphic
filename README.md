@@ -26,7 +26,6 @@ Este projeto utiliza Jetpack Compose para desenhar e visualizar pontos faciais d
 
 ## 🎥 Demonstração
 
-<video width="400" controls>
-  <source src="imagens/video.mp4" type="video/mp4">
-  Seu navegador não suporta vídeos embutidos.
-</video>
+
+https://github.com/user-attachments/assets/51b36627-5a39-4ccb-b38d-0a9ab498c0a0
+
